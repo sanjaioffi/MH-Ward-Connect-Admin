@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>702911420242-oc076pud1ove4s199r8qe4033f1fhsao.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.702911420242-oc076pud1ove4s199r8qe4033f1fhsao</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>702911420242-e894406p0q62a5g7ljv5dj874oip27hr.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAsqXz4iYYtSVxjwXZZIE0MQSwJ7qu6M3M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>702911420242</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.mduAdmin.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>mdu-ward-connect</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mdu-ward-connect.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:702911420242:ios:791c130e81bbcd88074c8b</string>
+	<key>DATABASE_URL</key>
+	<string>https://mdu-ward-connect-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
